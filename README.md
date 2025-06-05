@@ -55,7 +55,7 @@ The core objectives of this project are:
 
 ## 🤝 Community Engagement
 
-### 🔗 [LinkedIn Post](#) *(Add link here after posting)*
+### 🔗 [LinkedIn Post](#) https://www.linkedin.com/in/pratyush-kumar-sarangi-baaa63212/
 
 > I’ve posted the project on LinkedIn tagging **@WsCubeTech** and using the hashtag **#Upskilling@WsCubeTech**. I would love your feedback on the dashboard, analysis, or any suggestions for improvement!
 
